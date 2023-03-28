@@ -1,0 +1,3 @@
+[submodule "KiCad6Lib"]
+	path = KiCad6Lib
+	url = https://github.com/takeru0x5569/KiCad6Lib.git

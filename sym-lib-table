@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Basic")(type "KiCad")(uri "${KIPRJMOD}/KiCad6Lib/Symbole/Basic.kicad_sym")(options "")(descr ""))
+  (lib (name "Connector")(type "KiCad")(uri "${KIPRJMOD}/KiCad6Lib/Symbole/Connector.kicad_sym")(options "")(descr ""))
+  (lib (name "Interface")(type "KiCad")(uri "${KIPRJMOD}/KiCad6Lib/Symbole/Interface.kicad_sym")(options "")(descr ""))
+  (lib (name "POWER")(type "KiCad")(uri "${KIPRJMOD}/KiCad6Lib/Symbole/POWER.kicad_sym")(options "")(descr ""))
+  (lib (name "PinHeader")(type "KiCad")(uri "${KIPRJMOD}/KiCad6Lib/Symbole/PinHeader.kicad_sym")(options "")(descr ""))
+)

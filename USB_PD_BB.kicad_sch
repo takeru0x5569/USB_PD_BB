@@ -1,0 +1,85 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid fa5df8a3-6e5f-49f9-b1a4-10cabcdbe348)
+
+  (paper "A4")
+
+  (lib_symbols
+    (symbol "Basic:C1608m" (pin_numbers hide) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+      (property "Reference" "C" (at -1.27 1.27 90) (do_not_autoplace)
+        (effects (font (size 1 1)) (justify left))
+      )
+      (property "Value" "Value" (at 1.27 -1.27 90) (do_not_autoplace)
+        (effects (font (size 1 1)) (justify right))
+      )
+      (property "Footprint" "" (at 0 0 90)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Datasheet" "" (at 0 0 90)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (symbol "C1608m_0_1"
+        (polyline
+          (pts
+            (xy -2.032 1.016)
+            (xy 2.032 1.016)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 2.032 -1.016)
+            (xy -2.032 -1.016)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+      )
+      (symbol "C1608m_1_1"
+        (text "1608m" (at 0 0 0)
+          (effects (font (size 0.8 0.8)))
+        )
+        (pin input line (at 0 6.35 270) (length 5.2)
+          (name "1" (effects (font (size 1.27 1.27))))
+          (number "1" (effects (font (size 1.27 1.27))))
+        )
+        (pin input line (at 0 -6.35 90) (length 5.2)
+          (name "2" (effects (font (size 1.27 1.27))))
+          (number "2" (effects (font (size 1.27 1.27))))
+        )
+      )
+    )
+  )
+
+
+  (symbol (lib_id "Basic:C1608m") (at 88.9 69.85 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid db01cddd-eacd-4777-bcde-503443f0f83b)
+    (property "Reference" "C1" (at 87.63 68.58 90) (do_not_autoplace)
+      (effects (font (size 1 1)) (justify left))
+    )
+    (property "Value" "Value" (at 90.17 71.12 90) (do_not_autoplace)
+      (effects (font (size 1 1)) (justify right))
+    )
+    (property "Footprint" "" (at 88.9 69.85 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 88.9 69.85 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 56d6660d-cfcf-4f72-bcc7-2c77737e7458))
+    (pin "2" (uuid 868dd74c-5225-4198-b55e-fca12ae073be))
+    (instances
+      (project "USB_PD_BB"
+        (path "/fa5df8a3-6e5f-49f9-b1a4-10cabcdbe348"
+          (reference "C1") (unit 1)
+        )
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

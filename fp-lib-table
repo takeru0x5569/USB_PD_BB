@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Interface")(type "KiCad")(uri "${KIPRJMOD}/KiCad6Lib/Footprint/Interface.pretty")(options "")(descr ""))
+  (lib (name "Connector")(type "KiCad")(uri "${KIPRJMOD}/KiCad6Lib/Footprint/Connector.pretty")(options "")(descr ""))
+  (lib (name "Basic")(type "KiCad")(uri "${KIPRJMOD}/KiCad6Lib/Footprint/Basic.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/KiCad6Lib/Footprint/PinHeader.pretty/Library.pretty")(options "")(descr ""))
+  (lib (name "PinHeader")(type "KiCad")(uri "${KIPRJMOD}/KiCad6Lib/Footprint/PinHeader.pretty")(options "")(descr ""))
+)
