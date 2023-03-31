@@ -5,4 +5,6 @@
   (lib (name "Basic")(type "KiCad")(uri "${KIPRJMOD}/KiCad6Lib/Footprint/Basic.pretty")(options "")(descr ""))
   (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/KiCad6Lib/Footprint/PinHeader.pretty/Library.pretty")(options "")(descr ""))
   (lib (name "PinHeader")(type "KiCad")(uri "${KIPRJMOD}/KiCad6Lib/Footprint/PinHeader.pretty")(options "")(descr ""))
+  (lib (name "PinSocket")(type "KiCad")(uri "${KIPRJMOD}/KiCad6Lib/Footprint/PinSocket.pretty")(options "")(descr ""))
+  (lib (name "IC")(type "KiCad")(uri "${KIPRJMOD}/KiCad6Lib/Footprint/IC.pretty")(options "")(descr ""))
 )

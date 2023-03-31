@@ -5,4 +5,6 @@
   (lib (name "Interface")(type "KiCad")(uri "${KIPRJMOD}/KiCad6Lib/Symbole/Interface.kicad_sym")(options "")(descr ""))
   (lib (name "POWER")(type "KiCad")(uri "${KIPRJMOD}/KiCad6Lib/Symbole/POWER.kicad_sym")(options "")(descr ""))
   (lib (name "PinHeader")(type "KiCad")(uri "${KIPRJMOD}/KiCad6Lib/Symbole/PinHeader.kicad_sym")(options "")(descr ""))
+  (lib (name "PinSocket")(type "KiCad")(uri "${KIPRJMOD}/KiCad6Lib/Symbole/PinSocket.kicad_sym")(options "")(descr ""))
+  (lib (name "IC")(type "KiCad")(uri "${KIPRJMOD}/KiCad6Lib/Symbole/IC.kicad_sym")(options "")(descr ""))
 )
