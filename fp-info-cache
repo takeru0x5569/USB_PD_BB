@@ -1,4 +1,4 @@
-65531439044185
+60495210788438
 Basic
 CAP0603m
 
@@ -35,35 +35,7 @@ CAP3216m
 2
 2
 Basic
-LED1608m
-
-LED
-0
-2
-2
-Basic
-LED1608mBLUE
-
-LED
-0
-2
-2
-Basic
-LED1608mGREEN
-
-LED
-0
-2
-2
-Basic
 LED1608mRED
-
-LED
-0
-2
-2
-Basic
-LED1608mYELLOW
 
 LED
 0
@@ -160,6 +132,13 @@ IP2721D
 0
 16
 16
+IC
+STM32F405RGT6
+
+
+0
+64
+64
 Interface
 AM26C31
 
@@ -270,5 +249,5 @@ Switch
 
 Switch
 0
-3
+5
 3
